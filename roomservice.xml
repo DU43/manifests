@@ -19,7 +19,7 @@
   <remove-project name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project name="cristianomatos/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_Mms" />
-  <project name="cristianomatos/android_packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="cr-main-10.2" />
+  <project path="packages/apps/Mms" name="SlimRoms/packages_apps_Mms" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_apps_Nfc" />
   <project name="cristianomatos/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_Phone" />
