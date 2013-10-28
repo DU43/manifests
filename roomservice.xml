@@ -6,7 +6,7 @@
   <remote fetch="git://github.com/TheMuppets/" name="tm" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-10.2" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-10.2" />
-  <project path="build" name="CyanogenMod/android_build" groups="pdk" >
+  <remove-project name="build" name="CyanogenMod/android_build" groups="pdk" >
   <project name="DU43/android_build" path="android/build" remote="github" revision="cm-10.2" />
   <remove-project name="CyanogenMod/android_vendor_cm" />
   <project name="DU43/android_vendor_cm" path="vendor/cm" remote="github" revision="cr-main-10.2" />
