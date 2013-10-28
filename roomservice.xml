@@ -9,25 +9,25 @@
   <remove-project name="CyanogenMod/android_vendor_cm" />
   <project name="DU43/android_vendor_cm" path="vendor/cm" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_Calculator" />
-  <project name="cristianomatos/android_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="cr-main-10.2" />
+  <project name="SlimRoms/android_packages_apps_Calculator" path="packages/apps/Calculator" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_apps_Contacts" />
   <project name="cristianomatos/android_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <project name="cristianomatos/android_packages_apps_ContactsCommon" path="packages/apps/ContactsCommon" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_Dialer" />
-  <project name="cristianomatos/android_packages_apps_Dialer" path="packages/apps/Dialer" remote="github" revision="cr-main-10.2" />
+  <project name="SlimRoms/android_packages_apps_Dialer" path="packages/apps/Dialer" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_apps_Email" />
   <project name="cristianomatos/android_packages_apps_Email" path="packages/apps/Email" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_packages_apps_Gallery2" />
   <project name="LiquidSmooth/android_packages_apps_Gallery2" path="packages/apps/Gallery2" remote="github" revision="jb3" />
   <remove-project name="CyanogenMod/android_packages_inputmethods_LatinIME" />
-  <project name="cristianomatos/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="cr-main-10.2" />
-  <remove-project name="CyanogenMod/android_packages_apps_Mms" />
+  <project name="SlimRoms/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="github" revision="jb4.3" />
+  <remove-project name="SlimRoms/android_packages_apps_Mms" />
   <project name="nitroglycerine33/packages_apps_Mms" path="packages/apps/Mms" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_apps_Nfc" />
-  <project name="cristianomatos/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cr-main-10.2" />
+  <project name="SlimRoms/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_apps_Phone" />
-  <project name="cristianomatos/android_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="cr-main-10.2" />
+  <project name="SlimRoms/android_packages_apps_Phone" path="packages/apps/Phone" remote="github" revision="jb4.3" />
   <remove-project name="CyanogenMod/android_packages_providers_MediaProvider" />
   <project name="cristianomatos/android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="github" revision="cr-main-10.2" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
